@@ -1,0 +1,24 @@
+_repo: Mexikon-valloitusKappale-Amerikan-historiaa_37768
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hagman, Tyko
+    gutenberg_agent_id: '39050'
+    url: http://www.gutenberg.org/2009/agents/39050
+description: ''
+gutenberg_issued: '2011-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37768'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- History -- Conquest, 1519-1540'
+- !lcc 'F1201'
+title: 'Mexikon valloitus: Kappale Amerikan historiaa'
+url: http://www.gutenberg.org/ebooks/37768
